@@ -1,4 +1,4 @@
-Algoritmo "Loop1"
+Algoritmo "Loop2"
 // Disciplina   : [Linguagem e Lógica de Programação]
 // Professor   : 
 // Descrição   : Solicita 10 números ao usuario e exibe a multiplicação dos 10
