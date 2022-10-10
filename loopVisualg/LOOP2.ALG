@@ -13,13 +13,13 @@ Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc...
 i <- 0
 multiplicacao <- 1
-ENQUANTO i < 10 FACA
+REPITA
          ESCREVA("Digite o número a ser inserido na multiplicação: ")
          LEIA(fator)
          multiplicacao <- multiplicacao * fator
          i <- i+1
          
-FIMENQUANTO
+ATE i >= 10
 
 ESCREVAL("O valor total das multiplicações é:",multiplicacao)
 
