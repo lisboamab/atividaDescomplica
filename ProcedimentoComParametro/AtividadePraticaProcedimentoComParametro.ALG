@@ -25,6 +25,6 @@ Inicio
       leia(y)
 
       multiplicaDoisNumeros(x,y)
-      escreval(res)
+      escreval(x," * ",y," = ", res)
 
 Fimalgoritmo
