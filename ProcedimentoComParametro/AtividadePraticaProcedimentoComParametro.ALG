@@ -6,20 +6,25 @@ Algoritmo "semnome"
 // Data atual  : 20/10/2022
 
 procedimento multiplicaDoisNumeros(a,b: inteiro)
-inicio
+var
+   aux: inteiro
 
-res <- a * b
+inicio
+      aux <- a * b
+      res <- aux
 fimprocedimento
 
 Var
-x, y, res: inteiro
+   res, x, y: inteiro
 
 
 Inicio
-x <- 10
-y <- 15
+      escreval("Digite o primeiro número para multiplicar: ")
+      leia(x)
+      escreval("Digite o segundo número para multiplicar: ")
+      leia(y)
 
-multiplicaDoisNumeros(x,y)
-escreval(res)
+      multiplicaDoisNumeros(x,y)
+      escreval(res)
 
 Fimalgoritmo
