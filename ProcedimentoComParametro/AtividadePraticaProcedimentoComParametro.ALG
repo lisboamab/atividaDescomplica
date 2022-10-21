@@ -1,4 +1,4 @@
-Algoritmo "semnome"
+Algoritmo "ProcedimentoComParametroMultiplica"
 // Disciplina   : [Linguagem e Lógica de Programação]
 // Professor   : 
 // Descrição   : Aqui você descreve o que o programa faz! (função)
